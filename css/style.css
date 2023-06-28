@@ -1,0 +1,51 @@
+*{
+	margin:0;
+	padding:0;
+	}
+.container{
+		padding:40px 20px;
+		text-align:center;
+		margin:20px;
+}
+	
+h1{
+	background-color:#0a9efa;
+	color:white;
+	padding:20px 10px;
+	margin:auto;
+	width:30%;
+	border-radius:10px 10px 0 0;
+
+
+	
+}
+.para1{
+	padding-top:10px;
+}
+.font {
+	color:#0a9efa;
+	font-weight:bold;
+	font-size:30px;
+
+	
+}
+.dbody p{
+	padding:8px;
+	margin-top:10px;
+	font-size:18px;
+}
+#para{
+	color:#cdd2d4;
+}
+
+.footer button{
+		padding:10px;
+		margin-top:25px;
+		background-color:#0a9efa;
+		color:white;
+		width:10%;
+		border-radius:5px;
+		border:1px solid #0a9efa;
+		font-weight:bold;
+		
+}
